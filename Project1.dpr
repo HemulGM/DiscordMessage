@@ -2,7 +2,7 @@ program Project1;
 
 uses
   Vcl.Forms,
-  Unit1 in '..\..\DiscordMessage\Unit1.pas' {Form1},
+  Unit1 in 'Unit1.pas' {Form1},
   discord in 'discord.pas';
 
 {$R *.res}
